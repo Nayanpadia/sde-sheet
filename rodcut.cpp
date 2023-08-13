@@ -1,7 +1,6 @@
+//Created by Nayan padia
 // A recursive solution for Rod cutting problem
 #include <bits/stdc++.h>
-#include <iostream>
-#include <math.h>
 using namespace std;
 
 // A utility function to get the maximum of two integer
